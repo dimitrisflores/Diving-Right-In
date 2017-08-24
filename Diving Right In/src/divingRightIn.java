@@ -25,7 +25,7 @@ public class divingRightIn
 			Scanner userInput = new Scanner(System.in);
 			System.out.println("How old are you?");
 			age = userInput.nextLine();
-			System.out.println("Nice you are " + age + " years old!");
+			System.out.println("Nice you are " + age + " years old, that's old!");
 			}
 		private static void askingNumberOfYears()
 			{
@@ -38,7 +38,7 @@ public class divingRightIn
 			}
 		private static void askingNumberOfDogYears()
 			{
-				// TODO Auto-generated method stub
+			
 				
 			}
 	}
